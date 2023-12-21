@@ -1,0 +1,14 @@
+agent==0.1.2
+beautifulsoup4==4.12.2
+boto3==1.33.6
+fpdf==1.7.2
+fpdf2==2.7.7
+langchain==0.0.352
+langchain_experimental==0.0.47
+pandas==2.1.4
+pandas_datareader==0.10.0
+python-dotenv==1.0.0
+Requests==2.31.0
+streamlit==1.29.0
+streamlit_cognito_auth==1.2.0
+yfinance==0.2.32
